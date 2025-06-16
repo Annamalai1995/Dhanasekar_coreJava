@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb52c26e-033b-4aeb-9a8a-e7e2feff66f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Collection/Demo_map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Collection/Demo_treeset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Collection/Treemap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Collection/Treeset1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/Demo_read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/Demo_read_secure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/Demo_secure_write.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/FileCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Encapsulation/Abstraction/abstractaccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Encapsulation/Abstraction/car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Abstraction/abstractaccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Abstraction/car.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1749550805226</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="collections">
+      <created>1749809940348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749809940348</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,6 +121,7 @@
     <MESSAGE value=" java" />
     <MESSAGE value="Arrays" />
     <MESSAGE value="Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread" />
+    <MESSAGE value="collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections" />
   </component>
 </project>
