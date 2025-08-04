@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb52c26e-033b-4aeb-9a8a-e7e2feff66f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/Demo_read.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/Demo_read_secure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/Demo_secure_write.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/Files/FileCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Encapsulation/Abstraction/abstractaccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Encapsulation/Abstraction/car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Abstraction/abstractaccess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Abstraction/car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Encapsulation/Abstraction/abstractaccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Core_java/oops/Inheritance/Encapsulation/Abstraction/car.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1749809940348</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Files">
+      <created>1750070476034</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750070476113</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +123,7 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Thread" />
     <MESSAGE value="collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections" />
+    <MESSAGE value="Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files" />
   </component>
 </project>
